@@ -2,7 +2,9 @@
 
 > **Your digital companion for student life in Kota.**
 
-Kota Student Guide is a modern web application designed to help students explore and discover essential places and services across **Kota, Rajasthan**. From finding suitable accommodation and coaching institutes to discovering food spots, cafés, and other student-friendly locations, the platform brings useful information together in one convenient place.
+Kota Student Guide is a modern, student-focused web application designed to help students explore and discover essential places and services across **Kota, Rajasthan**.
+
+From accommodation and coaching institutes to cafés, food spots, and other useful destinations, the platform brings important student resources together in one convenient place.
 
 ## 🌐 Live Website
 
@@ -10,8 +12,29 @@ Kota Student Guide is a modern web application designed to help students explore
 
 **🔗 Live Demo:** https://zesty-puffpuff-9e3bb2.netlify.app/
 
-> **Explore the website:**
+> **Open the website and explore Kota:**
 > https://zesty-puffpuff-9e3bb2.netlify.app/
+
+## 📱 Use It Like a Mobile App
+
+**Kota Student Guide can also be used as a mobile application through PWA technology.**
+
+When the website is opened on a compatible mobile device, users can get an **"Install App"** prompt that allows them to install Kota Student Guide directly on their device.
+
+Once installed, it can be launched from the mobile home screen and provides an app-like experience without requiring users to download it from the Play Store.
+
+### 📲 PWA Features
+
+* 📱 Install directly from the website
+* 🏠 Add the app to your mobile home screen
+* ⚡ Fast and lightweight experience
+* 🖥️ Responsive across desktop, tablet, and mobile
+* 🚀 App-like user experience
+* 🌐 No traditional app-store installation required
+* 🔄 Can be updated through the web application
+
+> **One website. Multiple experiences.**
+> Use it in your browser or install it as an app on your mobile device.
 
 ## ✨ Why Kota Student Guide?
 
@@ -36,21 +59,25 @@ Moving to a new city for education can be overwhelming. Students often need to s
 * 🧭 **Student-Friendly Navigation**
   Quickly discover places that matter most to students.
 
-* 📱 **Responsive Design**
-  Designed to work smoothly across desktops, tablets, and mobile devices.
+* 📱 **Progressive Web App**
+  Install the website on compatible mobile devices and use it like a native application.
+
+* 📐 **Responsive Design**
+  Designed to work across desktops, tablets, and mobile devices.
 
 ## 🛠️ Tech Stack
 
-| Technology      | Purpose                          |
-| --------------- | -------------------------------- |
-| ⚛️ React        | Frontend development             |
-| ⚡ Vite          | Fast development & build tooling |
-| 📘 TypeScript   | Type-safe development            |
-| 🎨 Tailwind CSS | Responsive UI styling            |
-| 🗺️ Leaflet     | Interactive maps                 |
-| 🌐 HTML5        | Web structure                    |
-| 💻 CSS3         | Styling & layout                 |
-| ☕ JavaScript    | Application functionality        |
+| Technology      | Purpose                           |
+| --------------- | --------------------------------- |
+| ⚛️ React        | Frontend development              |
+| ⚡ Vite          | Fast development & build tooling  |
+| 📘 TypeScript   | Type-safe development             |
+| 🎨 Tailwind CSS | Responsive UI styling             |
+| 🗺️ Leaflet     | Interactive maps                  |
+| 📱 PWA          | Installable mobile app experience |
+| 🌐 HTML5        | Web structure                     |
+| 💻 CSS3         | Styling & layout                  |
+| ☕ JavaScript    | Application functionality         |
 
 ## 🗺️ Project Vision
 
@@ -62,12 +89,13 @@ The goal of **Kota Student Guide** is to create a centralized digital guide for 
 
 Kota Student Guide can be useful for:
 
-* Students moving to Kota for the first time
-* Students searching for PGs or hostels
-* Students looking for coaching institutes
-* Students discovering cafés and food spots
-* Students exploring different areas of Kota
-* Visitors looking for student-friendly places
+* 🎓 Students moving to Kota for the first time
+* 🏠 Students searching for PGs or hostels
+* 📚 Students looking for coaching institutes
+* ☕ Students discovering cafés and food spots
+* 📍 Students exploring different areas of Kota
+* 🧭 Visitors looking for student-friendly places
+* 📱 Users who prefer an app-like mobile experience
 
 ## 📂 Project Structure
 
@@ -127,8 +155,9 @@ The application will be available at the local development URL provided by Vite.
 * 📍 Nearby-place recommendations
 * ❤️ Save/bookmark favourite places
 * 👤 Student profiles
-* 📱 Progressive Web App support
 * 🔔 Notifications for useful student updates
+* 📲 Enhanced PWA capabilities
+* 📴 Improved offline support
 
 ## 🤝 Contributing
 
@@ -152,5 +181,6 @@ Built with ❤️ to make exploring Kota easier for students.
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
-**🌐 Live Website:**
+### 🌐 Live Website
+
 https://zesty-puffpuff-9e3bb2.netlify.app/
