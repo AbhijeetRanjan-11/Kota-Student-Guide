@@ -1,4 +1,4 @@
-# 🎓 Kota Student Guide
+#🎓 Kota Student Guide
 
 > **Your digital companion for student life in Kota.**
 
@@ -184,3 +184,9 @@ Built with ❤️ to make exploring Kota easier for students.
 ### 🌐 Live Website
 
 https://zesty-puffpuff-9e3bb2.netlify.app/
+
+# Screenshot of an Websites#
+<img width="1911" height="895" alt="Screenshot 2026-09-04 at 23-42-01 Kota Student Guide — Find PGs Coaching Cafés   More" src="https://github.com/user-attachments/assets/f861e782-5faf-42f3-b14b-59fef4f772e8" />
+<img width="1000" height="1516" alt="WhatsApp Image 2026-09-05 at 12 59 55" src="https://github.com/user-attachments/assets/701635da-4fdb-41dc-a301-da66baf762e1" />
+
+
